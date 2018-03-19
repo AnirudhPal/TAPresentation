@@ -51,10 +51,12 @@ H2
 
 ```
 *Word*
+
 **Word**
 ```
 
 *Word*
+
 **Word**
 
 ### Listing
@@ -81,9 +83,51 @@ H2
 
 ### URL
 
+```
+[My Github](https://github.com/AnirudhPal)
+```
+
+[My Github](https://github.com/AnirudhPal)
+
 ### Images
 
+```
+![](https://avatars3.githubusercontent.com/u/13983164?s=460&v=4)
+```
+
+![](https://avatars3.githubusercontent.com/u/13983164?s=460&v=4)
+
 ### Code Block
+
+```
+```
+Plain Code
+```
+
+```c
+C Code
+#include <stdio.h>
+
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
+```
+
+```
+Plain Code
+```
+
+```c
+C Code
+#include <stdio.h>
+
+int main() {
+   printf("Hello, World!");
+   return 0;
+}
+```
 
 ### Philosophy Block or Blockqoutes
 
