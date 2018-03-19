@@ -176,8 +176,34 @@ Github Pages
 
 ### Setup
 
+1. Create Repo
+
+2. Go to Repo *Settings*
+
+3. Scroll Down to *GitHub Pages*
+
+4. Change *None* to *master branch*
+
+5. Click *Save*
+
 ### Supported
+
+Simple stuff like html, images, javascript, css, php etc.
 
 ### Not Supported
 
+Things like database hosting, large files like STL etc.
+
 ### Extras
+
+A small python HTTP server that runs on CS Data.
+
+*Terminal Usage:*
+```bash
+python server.py [port]
+```
+
+*Browser Usage:*
+```
+data.cs.purdue.edu:[port]
+```
