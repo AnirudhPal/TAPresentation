@@ -151,9 +151,25 @@ Sl No: | AAAAAAA | BBBBBBB
 1 | 10 | 20
 2 | 20 | 10
 
-### Video
-
 ### Extras
+
+```html
+<p align="center">
+     Figure 11. Importing all Neccessary Libs.
+</p>
+```
+
+<p align="center">
+     Figure 11. Importing all Neccessary Libs.
+</p>
+
+```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Word
+```
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Word
+
+Look at Index in Raw
 
 Github Pages
 ---
