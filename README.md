@@ -131,7 +131,25 @@ int main() {
 
 ### Philosophy Block or Blockqoutes
 
+```
+> I propose to consider the question, 'Can machines think? - Alan Turing
+```
+
+> I propose to consider the question, 'Can machines think? - Alan Turing
+
 ### Table
+
+```
+Sl No: | A | B
+--- | --: | :--
+1. | 10 | 20
+2. | 20 | 10
+```
+
+Sl No: | A | B
+--- | --: | :--
+1. | 10 | 20
+2. | 20 | 10
 
 ### Video
 
