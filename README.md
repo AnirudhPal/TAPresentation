@@ -49,7 +49,35 @@ H2
 
 ### Bold and Italic
 
+```
+*Word*
+**Word**
+```
+
+*Word*
+**Word**
+
 ### Listing
+
+```
+1. A
+2. B
+
+* A
+* B
+
+1. A
+     * B
+```
+
+1. A
+2. B
+
+* A
+* B
+
+1. A
+     * B
 
 ### URL
 
