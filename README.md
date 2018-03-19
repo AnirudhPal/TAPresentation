@@ -100,11 +100,11 @@ H2
 ### Code Block
 
 ```
-```
+\```
 Plain Code
-```
+\```
 
-```c
+\```c
 C Code
 #include <stdio.h>
 
@@ -112,7 +112,7 @@ int main() {
    printf("Hello, World!");
    return 0;
 }
-```
+\```
 ```
 
 ```
