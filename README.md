@@ -92,19 +92,19 @@ H2
 ### Images
 
 ```
-![](https://avatars3.githubusercontent.com/u/13983164?s=460&v=4)
+![](https://upload.wikimedia.org/wikipedia/commons/1/16/S-IC_engines_and_Von_Braun.jpg)
 ```
 
-![](https://avatars3.githubusercontent.com/u/13983164?s=460&v=4)
+![](https://upload.wikimedia.org/wikipedia/commons/1/16/S-IC_engines_and_Von_Braun.jpg)
 
 ### Code Block
 
 ```
-```
+\`\`\`
 Plain Code
-```
+\`\`\`
 
-```c
+\`\`\`c
 C Code
 #include <stdio.h>
 
@@ -112,7 +112,7 @@ int main() {
    printf("Hello, World!");
    return 0;
 }
-```
+\`\`\`
 ```
 
 ```
